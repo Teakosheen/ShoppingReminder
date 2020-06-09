@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "550387685814",
+    "firebase_url": "https://my-shopping-reminder.firebaseio.com",
+    "project_id": "my-shopping-reminder",
+    "storage_bucket": "my-shopping-reminder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550387685814:android:319d3a55018c3428b44917",
+        "android_client_info": {
+          "package_name": "com.example.myshoppingreminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550387685814-avggh2ia5qd0q9shg8259k1g4oa7h3te.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myshoppingreminder",
+            "certificate_hash": "d0da7bd66022ea91a000c983366a1d8e39816ba1"
+          }
+        },
+        {
+          "client_id": "550387685814-968vporb057g6vnnabgs8bed88jsha4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaXOsfXpSuJC_xSqtDnEuFOFb2RCgKRU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550387685814-968vporb057g6vnnabgs8bed88jsha4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

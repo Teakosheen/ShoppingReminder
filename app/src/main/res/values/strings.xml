@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Shopping Reminder</string>
+    <string name="priority">1</string>
+    <string name="name">Name</string>
+    <string name="detail">Detail</string>
+    <string name="priority1">Priority:</string>
+    <string name="save">Save</string>
+    <string name="AddP">My Products List</string>
+    <string name="ShowQ">Show quote of the day</string>
+    <string name="accLogin">Account login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login with email</string>
+    <string name="regAccount">Register New Account</string>
+    <string name="register">Register</string>
+    <string name="logout">Log Out</string>
+
+    <!-- Twitter consumer key and secret -->
+    <string name="twitter_consumer_key" translatable="false">SCtohOzH6B9W8Ief0Zg5w</string>
+    <string name="twitter_consumer_secret" translatable="false">bi0NXQ8iAOdTfeHi7dxrJCJDRQtiPDACj9DKBhSjc</string>
+
+
+</resources>
